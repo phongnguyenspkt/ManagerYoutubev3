@@ -1,0 +1,54 @@
+D:\Data\Manager v3\Manager v3\bin\Debug\Manager v3.exe.config
+D:\Data\Manager v3\Manager v3\bin\Debug\Manager v3.exe
+D:\Data\Manager v3\Manager v3\bin\Debug\Manager v3.pdb
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager v3.csprojResolveAssemblyReference.cache
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager_v3.ManagerYtb.resources
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager_v3.Properties.Resources.resources
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager v3.csproj.GenerateResource.Cache
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager v3.exe
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager v3.pdb
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager_v3.Logging.resources
+D:\Data\Manager v3\Manager v3\obj\Debug\Manager_v3.Addnew.resources
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Auth.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Core.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\log4net.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Zlib.Portable.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.pdb
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Auth.pdb
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Auth.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Core.pdb
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.Core.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.PlatformServices.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Data\Manager v3\Manager v3\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\log4net.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Newtonsoft.Json.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Zlib.Portable.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Data\Manager v3\Manager v3\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Data\fix manager v3\Manager v3\bin\Debug\Manager v3.exe.config
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager v3.exe
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager v3.pdb
+D:\Data\fix manager v3\Manager v3\bin\Debug\Manager v3.exe
+D:\Data\fix manager v3\Manager v3\bin\Debug\Manager v3.pdb
+D:\Data\fix manager v3\Manager v3\bin\Debug\Newtonsoft.Json.dll
+D:\Data\fix manager v3\Manager v3\bin\Debug\Newtonsoft.Json.xml
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager v3.csprojResolveAssemblyReference.cache
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager_v3.Addnew.resources
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager_v3.data_smail.resources
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager_v3.Logging.resources
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager_v3.ManagerYtb.resources
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager_v3.Properties.Resources.resources
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager v3.csproj.GenerateResource.Cache
+D:\Data\fix manager v3\Manager v3\obj\Debug\Manager_v3.show_test.resources
